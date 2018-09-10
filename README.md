@@ -8,7 +8,4 @@ Do you like this app? Follow me and you are more then welcome to my Facebook gro
 
 I really hope you enjoy from this app and I'm looking foward for you in my future apps and projects.
 
-Sincerely,
-Rotem Narder
-
 Copyright © Rotem Narder. All Rights Reserved
