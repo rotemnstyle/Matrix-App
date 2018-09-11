@@ -1,6 +1,6 @@
 # Matrix-App
 A Matrix App with a pure JavaScript &amp; SCSS which will below your mind 
-Hey everyone and welcome to my Matrix App! This App includes and combined my two love:
+Hey everyone and welcome to my Matrix App! This app includes and combined my two loves:
 1) Front End Development
 2) User Experience
 link of my app: https://codepen.io/rotem-narder/pen/KxyzZb
