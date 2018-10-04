@@ -3,7 +3,7 @@ A Matrix App with a pure JavaScript &amp; CSS which will below your mind
 Hey everyone and welcome to my Matrix App! This app includes and combined my two loves:
 1) Front End Development
 2) User Experience
-link of my app: https://codepen.io/rotem-narder/pen/KxyzZb
+link to the app:  http://matrix-app.surge.sh/
 Dear users, do you want to see something cool? Dear, please move your mouse and you will see my Matrix suprsise for you.
 Do you like this app? Follow me and you are more then welcome to my Facebook group Create & Innovate - UI/ UX & Front End
 
