@@ -4,7 +4,7 @@ Hey everyone and welcome to my Matrix!
 This project includes and combined my two loves:
 1) Animations
 2) User Experience
-link to the app:  http://matrix-app.surge.sh/
+link:  http://matrix-app.surge.sh/
 
 Dear users, do you want to see something cool? 
 So please move your mouse and you will see my Matrix suprsise for you.
