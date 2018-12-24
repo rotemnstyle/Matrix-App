@@ -1,5 +1,5 @@
-# Matrix-App
-A Matrix App with a pure JavaScript &amp; CSS which will below your mind 
+# Matrix
+A Matrix project with a pure JavaScript &amp; CSS which will below your mind 
 Hey everyone and welcome to my Matrix App!
 This project includes and combined my two loves:
 1) Animations
