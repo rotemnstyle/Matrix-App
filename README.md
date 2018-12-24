@@ -1,6 +1,6 @@
 # Matrix-App
 A Matrix App with a pure JavaScript &amp; CSS which will below your mind 
-Hey everyone and welcome to my Matrix App! This app includes and combined my two loves:
+Hey everyone and welcome to my Matrix App! This project includes and combined my two loves:
 1) Animations
 2) User Experience
 link to the app:  http://matrix-app.surge.sh/
