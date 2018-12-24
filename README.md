@@ -1,6 +1,6 @@
 # Matrix
 A Matrix project with a pure JavaScript &amp; CSS which will below your mind 
-Hey everyone and welcome to my Matrix App!
+Hey everyone and welcome to my Matrix!
 This project includes and combined my two loves:
 1) Animations
 2) User Experience
